@@ -3,4 +3,5 @@ public void main () {
   int j=20;
   int z=i+j;
   String name="Lokesh";
+  public static final String = "USER_NAME";
 }
